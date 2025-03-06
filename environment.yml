@@ -1,0 +1,11 @@
+name: open_ended_analysis_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9 
+  - pandas
+  - nltk
+  - scikit-learn
+  - gensim
+  - numpy

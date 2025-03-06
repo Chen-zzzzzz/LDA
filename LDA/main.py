@@ -1,6 +1,6 @@
 import numpy as np
 from scipy.special import digamma, polygamma, psi
-from preprocess import *
+from LDA.preprocess import *
 import time
 
 M = 2910+1  # number of articles
